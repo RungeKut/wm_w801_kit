@@ -2,7 +2,9 @@
 отладочная плата за 100руб.
 - Плата HLK-W801 с микроконтроллером на базе ядра Alibaba Xuantie XT804
 - Air602 - Модуль с Wi-Fi на SoC Winner Micro W600
-
+- Флеш память у 801 объемом 2Мбайт, а у 806 - 1Мбайт
+- Тип флеша NAND, размер страницы 1кбайт
+- Кэш для XIP - 32K
 
 ## Что нужно делать
 
@@ -28,6 +30,7 @@
 + [Описание для LuatOS](https://wiki.luatos.com/chips/W806.html)
 + [LuatOS-SoC](https://gitee.com/openLuat/LuatOS/releases)
 + [Видос2](https://www.youtube.com/watch?v=YaTXq1znJWc&list=RDLVrx7GzuA42hA&index=3)
++ [РАДИОКОТ](https://www.radiokot.ru/forum/viewtopic.php?f=62&t=185076&sid=2569e78e2249f845aac811fec92367e4&start=20)
 ### Contacts
 
 - cergo8@mail.ru
